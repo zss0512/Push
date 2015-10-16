@@ -141,7 +141,7 @@
 	<platform name="ios">
 		
 		<config-file target="config.xml" parent="/*">
-			<feature name="aiXinPushServer"">
+			<feature name="aiXinPushServer">
 				<param name="ios-package" value="PushPlugin"/>
 			</feature>
 		</config-file>
